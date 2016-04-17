@@ -1,0 +1,16 @@
+{
+  "name": "gobble-stylus-html",
+  "description": "Convert style tags in HTML files to css using stylus.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [ "gobble", "stylus", "html" ],
+  "author": "Chris Reeves",
+  "repository": "https://github.com/evs-chris/gobble-stylus-html",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "stylus": "^0"
+  }
+}
